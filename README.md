@@ -4,4 +4,4 @@ sadasd
 
 # Instaliacija
 
-'npm start'
+`npm start`
