@@ -1,0 +1,29 @@
+{
+  "name": "openlayerproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "jquery-ui-bundle": "^1.12.1-migrate",
+    "jquery-ui-dist": "^1.12.1",
+    "jsgrid": "^1.5.3",
+    "ol": "^6.2.1",
+    "parse": "^2.11.0",
+    "popper.js": "^1.16.1",
+    "proj4": "^2.6.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
